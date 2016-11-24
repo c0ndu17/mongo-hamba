@@ -1,1 +1,4 @@
-# mongo-hamba
+# Mongo-hamba
+
+Docker & kubernetes setup for mongodb.
+
